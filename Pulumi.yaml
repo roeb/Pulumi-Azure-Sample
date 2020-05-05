@@ -1,0 +1,3 @@
+name: pulumi-cycling-app-sample
+runtime: nodejs
+description: A minimal Azure TypeScript Pulumi program

@@ -1,0 +1,7 @@
+encryptionsalt: v1:kbOgWwsX3T0=:v1:yRuCl+xc8t74HkEo:he5xEzf3sraR4lRJbTlO5/BepF5/jA==
+config:
+  azure:environment: public
+  azure:location: westeurope
+  pulumi-cycling-app-sample:location: westeurope
+  pulumi-cycling-app-sample:resourceGroup: CyclingApp
+  pulumi-cycling-app-sample:stack: dev
